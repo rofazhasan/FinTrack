@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "FinTrack",
+    "slug": "FinTrack",
+    "icon": "./src/assets/icon.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./src/assets/images/png/splash.png",
+      "backgroundColor": "#D1FBEA"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "74577f4b-b286-4287-aeb7-f7edf46c3647"
+      }
+    },
+    "android": {
+      "package": "com.Rofazhasan.fintrack"
+    }
+  }
+}
